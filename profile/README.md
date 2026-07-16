@@ -4,7 +4,9 @@ FarmData2 aims to extend farmOS by adding data input forms,
 reporting, and analytics that support the day-to-day operation of 
 diversified vegetable farms, while also
 facilitating the keeping of records necessary for organic certification 
-and for the study of sustainable farming practices. 
+and for the study of sustainable farming practices.
+
+FarmData2 is at its core an application created for humans by humans. Working with people is what we find enjoyable about this project. Thus, particpation in this community focuses on genuine human interaction, possibly but not necessarily, augmented by the responsible use of AI tools.
 
 <!--
 
